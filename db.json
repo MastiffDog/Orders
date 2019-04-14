@@ -32,6 +32,17 @@
                    {"id": 11, "Price": 302, "Qty": 6},
                    {"id": 12, "Price": 51, "Qty": 7}
       ]
+    },
+    {
+      "id": 4,
+      "Date": "20.03.2018",
+      "Time": "20:36",
+      "Status": "completed",
+      "Products": [{"id": 13, "Price": 121, "Qty": 11},
+        {"id": 14, "Price": 131, "Qty": 4},
+        {"id": 15, "Price": 302, "Qty": 2},
+        {"id": 16, "Price": 451, "Qty": 1}
+      ]
     }
   ]
 }
